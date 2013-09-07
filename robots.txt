@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://proappletree.github.io/sitemap.xml 
