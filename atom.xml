@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[GEEK ZONE]]></title>
   <link href="http://proappletree.github.io/atom.xml" rel="self"/>
   <link href="http://proappletree.github.io/"/>
-  <updated>2013-09-07T11:21:06+08:00</updated>
+  <updated>2013-09-07T11:41:01+08:00</updated>
   <id>http://proappletree.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Dewdrop-黄]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
